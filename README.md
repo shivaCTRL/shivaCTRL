@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shiva kumar
-- 🌱 I’m currently in my final year Btech Degree , specilization in AI & ML
+- 🌱 I’m currently in my final year of my Btech Degree , specilization in AI & ML
 - 👨‍💻 Languages : python,java
 - 📫 How to reach me: 📧 gsk251999@gmail.com
            
